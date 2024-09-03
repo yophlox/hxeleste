@@ -1,4 +1,6 @@
-# hxeleste
+# hxeleste - archive
+
+* this is old as shit and this isnt being worked on anymore so eyha
 
 * An attempt to remake celeste classic type engine in haxeflixel.
 
